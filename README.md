@@ -4,3 +4,4 @@
 [Руководство по настройке GitHub Actions](https://docs.github.com/en/actions/quickstart)
 
 ![CI](https://github.com/<sonic-wave>/<https://github.com/sonic-wave/ajs-env>/actions/workflows/web.yml/badge.svg)
+
